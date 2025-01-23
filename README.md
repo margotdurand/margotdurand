@@ -1,8 +1,8 @@
 👋 Hi there, I’m Margot!
 
-🎓 I'm an incoming MSc Finance student at DCU, in Dublin.
+🎓 I'm an MSc Finance student at DCU, in Dublin.
 
-📊 I'm passionate about finance, data analysis, and new technology.
+📊 I'm passionate about corporate finance, and new technology.
 
 📈 My Goals:
    My aim is to combine my skills in finance with digital tools to enhance 
