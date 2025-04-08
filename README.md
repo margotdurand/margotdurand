@@ -19,9 +19,4 @@ I'm exploring through my studies and personal projects. Expect to see:
 📚 Notes and summaries on finance concepts I’m studying
 💻 My progress in programming and data science applied to finance
 
-📫 How to Reach Me 
 
-If you have any questions, collaboration opportunities, or just want to chat about finance and technology, 
-feel free to get in touch:
-
-🌐 LinkedIn: https://www.linkedin.com/in/mdurandgouret/
